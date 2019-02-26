@@ -7,3 +7,9 @@ a {}
 .promo {
   font-size: 58px;
 }
+
+.page-footer {
+  background: #000;
+  color: white;
+
+}
