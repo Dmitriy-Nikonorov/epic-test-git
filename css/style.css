@@ -3,3 +3,7 @@ a {}
 .page-header {
   display: block;
 }
+
+.promo {
+  font-size: 58px;
+}
